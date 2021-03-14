@@ -6,7 +6,7 @@ to provide ready-made user management and templates.
 ## Installation
 
 ```shell
-composer create-project nateatharvest/web-app-starter
+composer create-project harvest-media/web-app-starter
 ```
 
 Then, go to the root project:
