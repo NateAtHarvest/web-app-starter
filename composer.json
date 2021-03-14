@@ -1,0 +1,10 @@
+{
+    "name": "harvest-media/web-app-starter",
+    "description": "Yii2 PHP Web App Starter Project",
+    "keywords": [
+        "Web App"
+    ],
+    "require": {
+        "nateatharvest/base-web-app": "^1.01"
+    }
+}
